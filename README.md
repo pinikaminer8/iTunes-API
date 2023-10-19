@@ -14,10 +14,3 @@ Before running the application, ensure that you have the following dependencies 
 
 - Node.js: [Download and Install Node.js](https://nodejs.org/)
 - npm (Node Package Manager): Usually included with Node.js installation.
-
-## Installation
-
-1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/itunes-search-web-app.git
