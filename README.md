@@ -1,6 +1,6 @@
 # iTunes Search Web App
 
-This is a simple web application that allows users to search for content within the iTunes Store and view the search results. The application is built using Node.js, Express, and Axios for making requests to the iTunes Search API.
+This is a simple web application that allows users to search for content within the iTunes Store and view the search results. The application is built using Node.js, Express, and Axios for making requests to the iTunes Search API. I did this project as part of The Complete 2023 Web Development Bootcamp by Dr. Angela Yu.
 
 ## Features
 
