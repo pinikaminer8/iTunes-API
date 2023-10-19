@@ -15,4 +15,4 @@ Before running the application, ensure that you have the following dependencies 
 - Node.js: [Download and Install Node.js](https://nodejs.org/)
 - npm (Node Package Manager): Usually included with Node.js installation.
 
-**Disclaimer:** The CSS file used in this project was not created by me. It was written by another person.
+**Disclaimer:** The CSS file used in this project was not created by me.
